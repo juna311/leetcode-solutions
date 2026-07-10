@@ -10,5 +10,17 @@
     "submission_url": "https://leetcode.com/problems/two-sum/submissions/2062490843/",
     "file": "solutions/two-sum/solution.py",
     "sha256": "6e3da1d3aaeffaac745f8380598a61c4cfe9775c721cd8f248db3e65fb22d148"
+  },
+  {
+    "submission_id": "2062983813",
+    "problem": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "language": "python3",
+    "submitted_at": "2026-07-10T15:03:44+00:00",
+    "timestamp": 1783695824,
+    "problem_url": "https://leetcode.com/problems/contains-duplicate/",
+    "submission_url": "https://leetcode.com/problems/contains-duplicate/submissions/2062983813/",
+    "file": "solutions/contains-duplicate/solution.py",
+    "sha256": "2fe1dda5cbe8c6163634e4fd2352987dde17954b68d1b33c659373513cd9e5cd"
   }
 ]
