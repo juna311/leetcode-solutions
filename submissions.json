@@ -22,5 +22,17 @@
     "submission_url": "https://leetcode.com/problems/contains-duplicate/submissions/2062983813/",
     "file": "solutions/contains-duplicate/solution.py",
     "sha256": "2fe1dda5cbe8c6163634e4fd2352987dde17954b68d1b33c659373513cd9e5cd"
+  },
+  {
+    "submission_id": "2066760037",
+    "problem": "Valid Anagram",
+    "slug": "valid-anagram",
+    "language": "python3",
+    "submitted_at": "2026-07-14T02:11:06+00:00",
+    "timestamp": 1783995066,
+    "problem_url": "https://leetcode.com/problems/valid-anagram/",
+    "submission_url": "https://leetcode.com/problems/valid-anagram/submissions/2066760037/",
+    "file": "solutions/valid-anagram/solution.py",
+    "sha256": "c2628849d5737215b2ea5bc70418b538a39a298452d890b0f789804a1d6a09c1"
   }
 ]
