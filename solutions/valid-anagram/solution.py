@@ -11,8 +11,10 @@ class Solution:
         for j in range(0, len(t)):
             if t[j] in firstString:
                 firstString[t[j]] = firstString[t[j]] - 1
+                if firstString[t[j]] == -1:
+                    return False
             else:
-                firstString[t[j]] = -1
+                return False
         for k in firstString.values():
             if k != 0:
                 return False
