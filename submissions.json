@@ -46,5 +46,17 @@
     "submission_url": "https://leetcode.com/problems/valid-anagram/submissions/2070609053/",
     "file": "solutions/valid-anagram/solution.py",
     "sha256": "5aed9e95a915f70c857aa6933e861091c67151e3c6a08a30f7f503d06ceae632"
+  },
+  {
+    "submission_id": "2070925201",
+    "problem": "Valid Palindrome",
+    "slug": "valid-palindrome",
+    "language": "python3",
+    "submitted_at": "2026-07-17T09:24:22+00:00",
+    "timestamp": 1784280262,
+    "problem_url": "https://leetcode.com/problems/valid-palindrome/",
+    "submission_url": "https://leetcode.com/problems/valid-palindrome/submissions/2070925201/",
+    "file": "solutions/valid-palindrome/solution.py",
+    "sha256": "feca310add8ce97dc5d575aab4df598abb09d3d64f2882432af4e08c9dd0b5e8"
   }
 ]
