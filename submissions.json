@@ -58,5 +58,17 @@
     "submission_url": "https://leetcode.com/problems/valid-palindrome/submissions/2070925201/",
     "file": "solutions/valid-palindrome/solution.py",
     "sha256": "feca310add8ce97dc5d575aab4df598abb09d3d64f2882432af4e08c9dd0b5e8"
+  },
+  {
+    "submission_id": "2073432250",
+    "problem": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "language": "python3",
+    "submitted_at": "2026-07-19T12:09:21+00:00",
+    "timestamp": 1784462961,
+    "problem_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "submission_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2073432250/",
+    "file": "solutions/best-time-to-buy-and-sell-stock/solution.py",
+    "sha256": "c65ccc36fba9dbfe2e2fab93baac0eee61251e7da478c0eb3a115b99f37b33d0"
   }
 ]
