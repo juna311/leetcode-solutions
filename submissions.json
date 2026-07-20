@@ -70,5 +70,17 @@
     "submission_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2073432250/",
     "file": "solutions/best-time-to-buy-and-sell-stock/solution.py",
     "sha256": "c65ccc36fba9dbfe2e2fab93baac0eee61251e7da478c0eb3a115b99f37b33d0"
+  },
+  {
+    "submission_id": "2074844421",
+    "problem": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "language": "python3",
+    "submitted_at": "2026-07-20T16:47:37+00:00",
+    "timestamp": 1784566057,
+    "problem_url": "https://leetcode.com/problems/valid-parentheses/",
+    "submission_url": "https://leetcode.com/problems/valid-parentheses/submissions/2074844421/",
+    "file": "solutions/valid-parentheses/solution.py",
+    "sha256": "6eb88424d6f52de4328ff98da095de15ef23346a1faf262ea85b5b9560f68a82"
   }
 ]
