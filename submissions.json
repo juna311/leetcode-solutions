@@ -82,5 +82,17 @@
     "submission_url": "https://leetcode.com/problems/valid-parentheses/submissions/2074844421/",
     "file": "solutions/valid-parentheses/solution.py",
     "sha256": "6eb88424d6f52de4328ff98da095de15ef23346a1faf262ea85b5b9560f68a82"
+  },
+  {
+    "submission_id": "2078164768",
+    "problem": "Binary Search",
+    "slug": "binary-search",
+    "language": "python3",
+    "submitted_at": "2026-07-23T09:04:25+00:00",
+    "timestamp": 1784797465,
+    "problem_url": "https://leetcode.com/problems/binary-search/",
+    "submission_url": "https://leetcode.com/problems/binary-search/submissions/2078164768/",
+    "file": "solutions/binary-search/solution.py",
+    "sha256": "89aaeffc17602c1d80e46fb266f6279dbf118be3d9c140c13c87d5ccd0cbccd1"
   }
 ]
