@@ -94,5 +94,17 @@
     "submission_url": "https://leetcode.com/problems/binary-search/submissions/2078164768/",
     "file": "solutions/binary-search/solution.py",
     "sha256": "89aaeffc17602c1d80e46fb266f6279dbf118be3d9c140c13c87d5ccd0cbccd1"
+  },
+  {
+    "submission_id": "2078410263",
+    "problem": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "language": "python3",
+    "submitted_at": "2026-07-23T13:07:07+00:00",
+    "timestamp": 1784812027,
+    "problem_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "submission_url": "https://leetcode.com/problems/merge-two-sorted-lists/submissions/2078410263/",
+    "file": "solutions/merge-two-sorted-lists/solution.py",
+    "sha256": "322f492167e7251024b9ced9874561924700ad0e48184ee9e7fcc6737cdfa1e3"
   }
 ]
