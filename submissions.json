@@ -118,5 +118,17 @@
     "submission_url": "https://leetcode.com/problems/reverse-linked-list/submissions/2079275239/",
     "file": "solutions/reverse-linked-list/solution.py",
     "sha256": "b645244a47b551ad15053947dd9fd0a64eccfa92815df538dd2fc7eabf4eb10a"
+  },
+  {
+    "submission_id": "2079323181",
+    "problem": "Maximum Depth of Binary Tree",
+    "slug": "maximum-depth-of-binary-tree",
+    "language": "python3",
+    "submitted_at": "2026-07-24T08:28:17+00:00",
+    "timestamp": 1784881697,
+    "problem_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "submission_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2079323181/",
+    "file": "solutions/maximum-depth-of-binary-tree/solution.py",
+    "sha256": "ee356d8bc1fb3cce14e2d17548a6b0a24da7371c6a385ee4c98151e6bf84be90"
   }
 ]
