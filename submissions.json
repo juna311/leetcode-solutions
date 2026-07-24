@@ -106,5 +106,17 @@
     "submission_url": "https://leetcode.com/problems/merge-two-sorted-lists/submissions/2078410263/",
     "file": "solutions/merge-two-sorted-lists/solution.py",
     "sha256": "322f492167e7251024b9ced9874561924700ad0e48184ee9e7fcc6737cdfa1e3"
+  },
+  {
+    "submission_id": "2079275239",
+    "problem": "Reverse Linked List",
+    "slug": "reverse-linked-list",
+    "language": "python3",
+    "submitted_at": "2026-07-24T07:34:53+00:00",
+    "timestamp": 1784878493,
+    "problem_url": "https://leetcode.com/problems/reverse-linked-list/",
+    "submission_url": "https://leetcode.com/problems/reverse-linked-list/submissions/2079275239/",
+    "file": "solutions/reverse-linked-list/solution.py",
+    "sha256": "b645244a47b551ad15053947dd9fd0a64eccfa92815df538dd2fc7eabf4eb10a"
   }
 ]
