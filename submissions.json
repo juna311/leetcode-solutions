@@ -130,5 +130,17 @@
     "submission_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2079323181/",
     "file": "solutions/maximum-depth-of-binary-tree/solution.py",
     "sha256": "ee356d8bc1fb3cce14e2d17548a6b0a24da7371c6a385ee4c98151e6bf84be90"
+  },
+  {
+    "submission_id": "2082162884",
+    "problem": "Group Anagrams",
+    "slug": "group-anagrams",
+    "language": "python3",
+    "submitted_at": "2026-07-26T14:40:08+00:00",
+    "timestamp": 1785076808,
+    "problem_url": "https://leetcode.com/problems/group-anagrams/",
+    "submission_url": "https://leetcode.com/problems/group-anagrams/submissions/2082162884/",
+    "file": "solutions/group-anagrams/solution.py",
+    "sha256": "c7770cafb3c858b4499b1057c215c0be89cc40ed34a7ef414edb858186a20bb7"
   }
 ]
