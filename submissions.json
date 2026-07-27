@@ -142,5 +142,17 @@
     "submission_url": "https://leetcode.com/problems/group-anagrams/submissions/2082162884/",
     "file": "solutions/group-anagrams/solution.py",
     "sha256": "c7770cafb3c858b4499b1057c215c0be89cc40ed34a7ef414edb858186a20bb7"
+  },
+  {
+    "submission_id": "2082679552",
+    "problem": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "language": "python3",
+    "submitted_at": "2026-07-27T02:13:21+00:00",
+    "timestamp": 1785118401,
+    "problem_url": "https://leetcode.com/problems/product-of-array-except-self/",
+    "submission_url": "https://leetcode.com/problems/product-of-array-except-self/submissions/2082679552/",
+    "file": "solutions/product-of-array-except-self/solution.py",
+    "sha256": "d59006455bedb7167ccf04da1a428a0c9f286e080f6e3cf0c07f162f4f1238d6"
   }
 ]
