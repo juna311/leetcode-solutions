@@ -166,5 +166,17 @@
     "submission_url": "https://leetcode.com/problems/top-k-frequent-elements/submissions/2085990897/",
     "file": "solutions/top-k-frequent-elements/solution.py",
     "sha256": "aa5f81dcbfd046bf885ae3a4cb5e04eb52df244e33f854f6ba202411be564547"
+  },
+  {
+    "submission_id": "2088906490",
+    "problem": "Longest Consecutive Sequence",
+    "slug": "longest-consecutive-sequence",
+    "language": "python3",
+    "submitted_at": "2026-07-31T14:29:35+00:00",
+    "timestamp": 1785508175,
+    "problem_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "submission_url": "https://leetcode.com/problems/longest-consecutive-sequence/submissions/2088906490/",
+    "file": "solutions/longest-consecutive-sequence/solution.py",
+    "sha256": "b2409d9bb9141009488dce5cff9aa8c2c0f682f0dc221db80937fa20039e616a"
   }
 ]
