@@ -178,5 +178,17 @@
     "submission_url": "https://leetcode.com/problems/longest-consecutive-sequence/submissions/2088906490/",
     "file": "solutions/longest-consecutive-sequence/solution.py",
     "sha256": "b2409d9bb9141009488dce5cff9aa8c2c0f682f0dc221db80937fa20039e616a"
+  },
+  {
+    "submission_id": "2092870810",
+    "problem": "3Sum",
+    "slug": "3sum",
+    "language": "python3",
+    "submitted_at": "2026-08-03T16:07:13+00:00",
+    "timestamp": 1785773233,
+    "problem_url": "https://leetcode.com/problems/3sum/",
+    "submission_url": "https://leetcode.com/problems/3sum/submissions/2092870810/",
+    "file": "solutions/3sum/solution.py",
+    "sha256": "795a6b15382309a351b4d135e8f0e6e586db6cc30d23f5fb6c3a9ec30c28d701"
   }
 ]
