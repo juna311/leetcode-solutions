@@ -190,5 +190,17 @@
     "submission_url": "https://leetcode.com/problems/3sum/submissions/2092870810/",
     "file": "solutions/3sum/solution.py",
     "sha256": "795a6b15382309a351b4d135e8f0e6e586db6cc30d23f5fb6c3a9ec30c28d701"
+  },
+  {
+    "submission_id": "2094282744",
+    "problem": "Container With Most Water",
+    "slug": "container-with-most-water",
+    "language": "python3",
+    "submitted_at": "2026-08-04T16:28:50+00:00",
+    "timestamp": 1785860930,
+    "problem_url": "https://leetcode.com/problems/container-with-most-water/",
+    "submission_url": "https://leetcode.com/problems/container-with-most-water/submissions/2094282744/",
+    "file": "solutions/container-with-most-water/solution.py",
+    "sha256": "4953bae0503a45e67c3432f42f3fc270e20481e27ac39bad36dbb1936860b348"
   }
 ]
