@@ -9,7 +9,7 @@ class Solution:
                 answer.remove(s[left])
                 left += 1
             answer.add(s[right])
-            currentLength = len(answer)
+            currentLength = right - left + 1
             maxLength = max(maxLength, currentLength)
         
         return maxLength

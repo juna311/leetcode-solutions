@@ -214,5 +214,17 @@
     "submission_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2096091573/",
     "file": "solutions/longest-substring-without-repeating-characters/solution.py",
     "sha256": "752eb2a9f401223df31ef848144d80717d78b0cb4422ca9735ebf2d461f6b8eb"
+  },
+  {
+    "submission_id": "2096092405",
+    "problem": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "language": "python3",
+    "submitted_at": "2026-08-06T04:20:07+00:00",
+    "timestamp": 1785990007,
+    "problem_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "submission_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2096092405/",
+    "file": "solutions/longest-substring-without-repeating-characters/solution.py",
+    "sha256": "ab817b148052010c02b8087713e2948d768d0819cade0156b3d777f309ff286c"
   }
 ]
