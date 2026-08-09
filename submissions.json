@@ -226,5 +226,17 @@
     "submission_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2096092405/",
     "file": "solutions/longest-substring-without-repeating-characters/solution.py",
     "sha256": "ab817b148052010c02b8087713e2948d768d0819cade0156b3d777f309ff286c"
+  },
+  {
+    "submission_id": "2100501612",
+    "problem": "Longest Repeating Character Replacement",
+    "slug": "longest-repeating-character-replacement",
+    "language": "python3",
+    "submitted_at": "2026-08-09T15:16:26+00:00",
+    "timestamp": 1786288586,
+    "problem_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "submission_url": "https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2100501612/",
+    "file": "solutions/longest-repeating-character-replacement/solution.py",
+    "sha256": "711867d09211baf9de0571fb965217bcd2fe94f2d543c483cb2d3ca291ff478b"
   }
 ]
