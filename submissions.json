@@ -250,5 +250,17 @@
     "submission_url": "https://leetcode.com/problems/koko-eating-bananas/submissions/2121752435/",
     "file": "solutions/koko-eating-bananas/solution.py",
     "sha256": "78f576b6c5a3755faac83c844bd7882e38d5aa0fca6963317ed5746566a62130"
+  },
+  {
+    "submission_id": "2121944006",
+    "problem": "Min Stack",
+    "slug": "min-stack",
+    "language": "python3",
+    "submitted_at": "2026-08-27T13:41:16+00:00",
+    "timestamp": 1787838076,
+    "problem_url": "https://leetcode.com/problems/min-stack/",
+    "submission_url": "https://leetcode.com/problems/min-stack/submissions/2121944006/",
+    "file": "solutions/min-stack/solution.py",
+    "sha256": "5e492f5f36e2c4b4a198808049a6fa1a8d1cf13a441b8ca83bdeb831b2fbad3c"
   }
 ]
