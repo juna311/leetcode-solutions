@@ -238,5 +238,17 @@
     "submission_url": "https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2100501612/",
     "file": "solutions/longest-repeating-character-replacement/solution.py",
     "sha256": "711867d09211baf9de0571fb965217bcd2fe94f2d543c483cb2d3ca291ff478b"
+  },
+  {
+    "submission_id": "2121752435",
+    "problem": "Koko Eating Bananas",
+    "slug": "koko-eating-bananas",
+    "language": "python3",
+    "submitted_at": "2026-08-27T09:47:29+00:00",
+    "timestamp": 1787824049,
+    "problem_url": "https://leetcode.com/problems/koko-eating-bananas/",
+    "submission_url": "https://leetcode.com/problems/koko-eating-bananas/submissions/2121752435/",
+    "file": "solutions/koko-eating-bananas/solution.py",
+    "sha256": "78f576b6c5a3755faac83c844bd7882e38d5aa0fca6963317ed5746566a62130"
   }
 ]
