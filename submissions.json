@@ -262,5 +262,17 @@
     "submission_url": "https://leetcode.com/problems/min-stack/submissions/2121944006/",
     "file": "solutions/min-stack/solution.py",
     "sha256": "5e492f5f36e2c4b4a198808049a6fa1a8d1cf13a441b8ca83bdeb831b2fbad3c"
+  },
+  {
+    "submission_id": "2122942908",
+    "problem": "Linked List Cycle",
+    "slug": "linked-list-cycle",
+    "language": "python3",
+    "submitted_at": "2026-08-28T14:09:45+00:00",
+    "timestamp": 1787926185,
+    "problem_url": "https://leetcode.com/problems/linked-list-cycle/",
+    "submission_url": "https://leetcode.com/problems/linked-list-cycle/submissions/2122942908/",
+    "file": "solutions/linked-list-cycle/solution.py",
+    "sha256": "82440243b1f4c05df0c9de208b427765a037bf4149f280a5b25d35bd78843f14"
   }
 ]
