@@ -286,5 +286,17 @@
     "submission_url": "https://leetcode.com/problems/reorder-list/submissions/2125584834/",
     "file": "solutions/reorder-list/solution.py",
     "sha256": "96491113648dbbe59c10acb1ff200647e06dd25abd28142fb03206d104c98379"
+  },
+  {
+    "submission_id": "2127907616",
+    "problem": "Validate Binary Search Tree",
+    "slug": "validate-binary-search-tree",
+    "language": "python3",
+    "submitted_at": "2026-09-02T03:39:13+00:00",
+    "timestamp": 1788320353,
+    "problem_url": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "submission_url": "https://leetcode.com/problems/validate-binary-search-tree/submissions/2127907616/",
+    "file": "solutions/validate-binary-search-tree/solution.py",
+    "sha256": "50bb1c46452ea1ee43b9e74daf0b712a54b7b6cc551cb771545ea447b46d6286"
   }
 ]
