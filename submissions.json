@@ -298,5 +298,17 @@
     "submission_url": "https://leetcode.com/problems/validate-binary-search-tree/submissions/2127907616/",
     "file": "solutions/validate-binary-search-tree/solution.py",
     "sha256": "50bb1c46452ea1ee43b9e74daf0b712a54b7b6cc551cb771545ea447b46d6286"
+  },
+  {
+    "submission_id": "2129760106",
+    "problem": "Binary Tree Level Order Traversal",
+    "slug": "binary-tree-level-order-traversal",
+    "language": "python3",
+    "submitted_at": "2026-09-03T15:22:11+00:00",
+    "timestamp": 1788448931,
+    "problem_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "submission_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2129760106/",
+    "file": "solutions/binary-tree-level-order-traversal/solution.py",
+    "sha256": "f796f359c57691b6c0c89f5a9f2c356c6cee71394add76ca463f866fa20c060c"
   }
 ]
